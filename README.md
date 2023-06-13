@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola!! Bienvenid@ a mi perfil!! 👋
 
-<!--
-**TSanchezMaiquez/TSanchezMaiquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¡Hola, soy Toñi! 👋
 
-Here are some ideas to get you started:
+Estoy estudiando el ciclo superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Ingeniero de la Cierva, Murcia. 
+Me encanta la programación y el desarrollo de software, estoy constantemente buscando oportunidades para aprender y crecer en este interesante campo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Actualmente estoy cursando el ciclo superior de DAM y en proceso de adquirir nuevos conocimientos en programación y tecnología.
+- 💻 Tengo experiencia en el lenguaje de programación Java y este verano quiero dedicarlo a aprender python e intentaré iniciarme en IA.
+- 🌱 Durante mi primer año de DAM, participé en un proyecto de laberinto con acceso a base de datos, algoritmos, cuentas de usuario y gestión de cuentas, así como log de sistema. Puedes encontrar más detalles en mi repositorio dedicado a este proyecto.
+- 🏆 Además de eso, he logrado mantener una media de 8,4 en mis estudios hasta el momento, lo cual refleja mi dedicación y compromiso con el aprendizaje.
+
+- 🌱 Siempre estoy buscando oportunidades para mejorar mis habilidades y expandir mi conocimiento.
+
+¡Estoy emocionada por compartir mis proyectos y contribuir a la comunidad de desarrollo en GitHub!
+
+Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, ¡no dudes en contactarme! 📩
+
+
