@@ -14,6 +14,6 @@ Me encanta la programación y el desarrollo de software, estoy constantemente bu
 
 ¡Estoy emocionada por compartir mis proyectos y contribuir a la comunidad de desarrollo en GitHub!
 
-Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, ¡no dudes en contactarme! 📩
+Si quieres conocer más sobre mi experiencia y trayectoria profesional, te invito a visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/tsanchezmaiquez/)
 
 
