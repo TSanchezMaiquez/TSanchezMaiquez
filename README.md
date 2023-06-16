@@ -1,3 +1,22 @@
+
+### Hello!! Welcome to my profile!! 👋
+
+## Hello, I'm Toñi! 👋
+
+I'm studying the Higher Degree in Multiplatform Application Development (DAM) at IES Ingeniero de la Cierva, Murcia. I love programming and software development, and I'm constantly seeking opportunities to learn and grow in this exciting field.
+
+- 🎓 Currently, I'm pursuing the DAM higher degree and in the process of acquiring new knowledge in programming and technology.
+- 💻 I have experience in the Java programming language, and this summer I want to dedicate it to learning Python and venture into AI.
+- 🌱 During my first year of DAM, I participated in a maze project with database access, algorithms, user accounts and account management, as well as system logging. You can find more details in my repository dedicated to this project.
+- 
+- 🌱 I'm always looking for opportunities to improve my skills and expand my knowledge.
+
+I'm excited to share my projects and contribute to the development community on GitHub!
+
+If you want to learn more about my experience and professional background, I invite you to visit my [LinkedIn](https://www.linkedin.com/in/tsanchezmaiquez/) profile.
+
+
+
 ### Hola!! Bienvenid@ a mi perfil!! 👋
 
 ## ¡Hola, soy Toñi! 👋
